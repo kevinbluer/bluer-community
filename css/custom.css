@@ -1,0 +1,12 @@
+@media screen and (min-width: 1024px) {
+	.macbook-61.shiftImageVertical.shiftImage {
+	    margin: 10% -100% -19% -115%;
+	    width: 200%;
+	}
+}
+
+@media screen and (max-width:767px) {
+	.button.pink.round {
+		font-size: 0.25em
+	}
+}
